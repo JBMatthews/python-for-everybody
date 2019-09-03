@@ -84,11 +84,6 @@ for entry in all:
 
 
 
-
-
-
-
-
 #
 # SQL Query
 #
